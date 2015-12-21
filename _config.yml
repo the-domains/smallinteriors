@@ -1,0 +1,28 @@
+name: SmallInteriors
+favicon: null
+layout_spectrum: 0.4091092033777386
+typography_spectrum: 0.7696425500325859
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.710372565779835
+  lightness: 0.5802203426137567
+  saturation: 0.47505859448574483
+  rhythmicContrast: 0.7847797132562846
+purpose: []
